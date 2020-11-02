@@ -22,7 +22,7 @@ Available tools:
 - Create a backend service (serverless, server, ...) based on a REST or GraphQL communication, e.g. with NestJS or another framework
 - Use the Game Of Thrones API in the backend and use your backend in the frontend
 - Use a version control system (GitHub, Bitbucket, ...) through which you provide us with the project
-- Structure your project in a mono repo approach and provide a `readme file` in the 'root folder' how we can run the project locally
+- Structure your project in a mono repo approach and provide a `readme file` in the `root folder` how we can run the project locally
 
 ### Notes
 

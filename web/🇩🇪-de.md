@@ -22,9 +22,9 @@ Hierzu stehen dir folgende Hilfsmittel zur Verfügung:
 - Erstelle einen Backend Serivce (serverless, server, ...) auf Basis einer REST oder GraphQL Kommunikation, bspw. mit NestJS oder einem anderem Framework.
 - Konsumiere die Game Of Thrones API im Backend und nutze dein Backend im Frontend
 - Benutze eine Versionsverwaltung (GitHub, Bitbucket, ...) über die du uns das Projekt zur Verfügung stellst
-- Strukturiere dein Projekt in einem Mono Repo Ansatz und stell uns im `root Ordner` ein `Readme File` bereit wie wir das Projekt lokal laufen lassen können
+- Strukturiere dein Projekt in einem Mono Repo Ansatz und stelle uns im `root Ordner` ein `Readme File` bereit wie wir das Projekt lokal laufen lassen können
 
 ### Hinweis
 
-- Denk daran, dass du mit der Aufgabe deine Fähigkeiten demonstriest. Setzte also gerne einen Schwerpunkt je nachdem wo deine Leidenschaft ist.
-- Sollte es dir nicht möglich sein eine Verbindung der Frontend mit der Backend-Anwendung herzustellen, nutze die Game Of Thrones API direkt im Frontend.
+- Denk daran, dass du mit der Aufgabe deine Fähigkeiten demonstriest. Setze also gerne einen Schwerpunkt je nachdem wo deine Leidenschaft ist.
+- Sollte es dir nicht möglich sein eine Verbindung der Frontend- mit der Backend-Anwendung herzustellen, nutze die Game Of Thrones API direkt im Frontend.
