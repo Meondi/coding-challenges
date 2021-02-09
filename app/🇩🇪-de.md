@@ -1,9 +1,9 @@
-# Web-App Coding Challenge 👨🏼‍💻
+# Mobile-App Coding Challenge 👨🏼‍💻
 
 ## Aufgabe
 
 - Erstelle eine Mobile Application.
-- Die Anwenndung soll einem Benutzer **alle** Häuser aus Game of Thrones in einer Übersicht anzeigen.
+- Die Anwendung soll einem Benutzer **alle** Häuser aus Game of Thrones in einer Übersicht anzeigen.
 - Durch Klick auf ein Haus soll dieses auf einer Detailseite mit weiteren Informationen zu sehen sein.
 
 ### APIs und Docs
@@ -28,5 +28,5 @@ Hierzu stehen dir folgende Hilfsmittel zur Verfügung:
 
 ### Hinweis
 
-- Denk daran, dass du mit der Aufgabe deine Fähigkeiten demonstriest. Setze also gerne einen Schwerpunkt je nachdem wo deine Leidenschaft ist.
+- Denk daran, dass du mit der Aufgabe deine Fähigkeiten demonstrierst. Setze also gerne einen Schwerpunkt je nachdem wo deine Leidenschaft ist.
 - Sollte es dir nicht möglich sein eine Verbindung der Frontend- mit der Backend-Anwendung herzustellen, nutze die Game Of Thrones API direkt im Frontend.
